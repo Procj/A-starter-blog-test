@@ -1,147 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0af0ee78-16d9-458d-afd3-4a0a37a8a1b7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/blogproject/.idea/blogproject.iml" afterPath="$PROJECT_DIR$/blogproject/.idea/blogproject.iml" />
-      <change beforePath="$PROJECT_DIR$/blogproject/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/blogproject/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/admin.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/apps.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/migrations/0001_initial.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/migrations/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/models.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/custom.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/autumn.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/borland.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/bw.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/colorful.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/emacs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/friendly.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/fruity.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/github.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/manni.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/monokai.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/murphy.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/native.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/pastie.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/perldoc.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/tango.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/trac.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/vim.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/vs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/highlights/zenburn.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/css/pace.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/js/jquery-2.1.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/js/modernizr.custom.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/js/pace.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/static/blog/js/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/templatetags/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/templatetags/blog_tags.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/tests.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/urls.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blog/views.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blogproject/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blogproject/settings.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blogproject/urls.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/blogproject/wsgi.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/admin.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/apps.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/forms.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/migrations/0001_initial.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/migrations/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/models.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/tests.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/urls.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/comments/views.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/db.sqlite3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/manage.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/requirements.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/templates/base.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/templates/blog/detail.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/templates/blog/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/INSTALLER" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/Markdown-2.6.11.dist-info/top_level.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/__main__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/__version__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/blockparser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/blockprocessors.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/abbr.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/admonition.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/attr_list.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/codehilite.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/def_list.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/extra.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/fenced_code.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/footnotes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/headerid.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/meta.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/nl2br.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/sane_lists.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/smart_strong.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/smarty.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/tables.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/toc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/extensions/wikilinks.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/inlinepatterns.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/odict.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/postprocessors.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/preprocessors.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/serializers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/treeprocessors.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/site-packages/markdown/util.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Lib/tcl8.6/init.tcl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/Activate.ps1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_bz2.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_ctypes.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_ctypes_test.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_decimal.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_elementtree.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_hashlib.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_lzma.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_msi.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_multiprocessing.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_overlapped.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_socket.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_sqlite3.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_ssl.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_testbuffer.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_testcapi.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_testimportmultiple.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_testmultiphase.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/_tkinter.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/activate.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/deactivate.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/markdown_py.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/pyexpat.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/python.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/python3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/python35.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/pythonw.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/select.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/sqlite3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/tcl86t.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/tk86t.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/unicodedata.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/vcruntime140.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/Scripts/winsound.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/pip-selfcheck.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blogproject/venv/pyvenv.cfg" afterPath="" />
-    </list>
+    <list default="true" id="0af0ee78-16d9-458d-afd3-4a0a37a8a1b7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -382,7 +242,7 @@
         <state relative-caret-position="285">
           <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -407,7 +267,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -424,7 +284,7 @@
         <state relative-caret-position="931">
           <caret line="53" column="25" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
           <folding>
-            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -434,7 +294,7 @@
         <state relative-caret-position="95">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -452,7 +312,7 @@
         <state relative-caret-position="893">
           <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -513,7 +373,7 @@
         <state relative-caret-position="570">
           <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -546,7 +406,7 @@
         <state relative-caret-position="570">
           <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -636,7 +496,7 @@
         <state relative-caret-position="931">
           <caret line="53" column="25" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
           <folding>
-            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -646,7 +506,7 @@
         <state relative-caret-position="95">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -695,7 +555,7 @@
         <state relative-caret-position="152">
           <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -705,7 +565,7 @@
         <state relative-caret-position="344">
           <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
